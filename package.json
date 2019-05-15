@@ -1,0 +1,25 @@
+{
+  "name": "node-jenkins",
+  "version": "1.0.0",
+  "description": "setting up auto CI and CD with jenkins in a node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandguns/node-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesandguns/node-jenkins/issues"
+  },
+  "homepage": "https://github.com/codesandguns/node-jenkins#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  }
+}
